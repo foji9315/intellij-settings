@@ -3,7 +3,7 @@
     <property name="created">2020-02-18T11:03:16</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2019.3.3.0.0</property>
-    <property name="modified">2020-02-25T12:57:43</property>
+    <property name="modified">2021-06-18T02:09:32</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <attributes>
@@ -59,6 +59,7 @@
     </option>
     <option name="REASSIGNED_LOCAL_VARIABLE_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="30abd6" />
         <option name="EFFECT_COLOR" value="909534" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
