@@ -34,6 +34,10 @@
           <option name="url" value="https://github.com/LSanchez08/agent-oriented-development.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Alexnoris/Exam.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Documents/UniModelo/Desarrollo basado en agentes/Parcial 1" />
